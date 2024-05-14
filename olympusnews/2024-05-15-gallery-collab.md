@@ -2,7 +2,7 @@
 image: ./images/2024-05-13-sentinent-forest.jpg
 link: https://gamebanana.com/mods/494348
 ignore: false
-title: Celebramos el anio nuevo chino
+title: Celebramos el anio nuevo chinoz
 
 ---
   
