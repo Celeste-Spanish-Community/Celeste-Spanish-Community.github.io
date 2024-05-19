@@ -6,4 +6,4 @@ title: Celebramos el anio nuevo chinoz
 
 ---
   
-La Gallery Collab es otra colaboracion gigante que probar si te quieres tomar un respiro de Strawberry Jam, por ejemplo. Tiene niveles de todas las dificultades, una banda sonora original y más de 20 mapas. Es, sin duda, una buena experiencia si te gusta probar mapas nuevos.
+La Gallery Collab es otra colaboración gigante que probar si te quieres tomar un respiro de Strawberry Jam, por ejemplo. Tiene niveles de todas las dificultades, una banda sonora original y más de 20 mapas. Es, sin duda, una buena experiencia si te gusta probar mapas nuevos.
